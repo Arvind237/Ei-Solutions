@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ObserverPatternDemo",
+            "request": "launch",
+            "mainClass": "ObserverPatternDemo",
+            "projectName": "Ei-Solutions_ad089491"
+        },
+        {
+            "type": "java",
+            "name": "StrategyPatternDemo",
+            "request": "launch",
+            "mainClass": "StrategyPatternDemo",
+            "projectName": "Ei-Solutions_ad089491"
+        },
+        {
+            "type": "java",
+            "name": "FactoryMethodPatternDemo",
+            "request": "launch",
+            "mainClass": "creational.FactoryMethodPatternDemo",
+            "projectName": "Ei-Solutions_ad089491"
+        },
+        {
+            "type": "java",
+            "name": "SingletonPatternDemo",
+            "request": "launch",
+            "mainClass": "creational.SingletonPatternDemo",
+            "projectName": "Ei-Solutions_ad089491"
+        },
+        {
+            "type": "java",
+            "name": "AdapterPatternDemo",
+            "request": "launch",
+            "mainClass": "structural.AdapterPatternDemo",
+            "projectName": "Ei-Solutions_ad089491"
+        },
+        {
+            "type": "java",
+            "name": "DecoratorPatternDemo",
+            "request": "launch",
+            "mainClass": "structural.DecoratorPatternDemo",
+            "projectName": "Ei-Solutions_ad089491"
+        }
+    ]
+}
